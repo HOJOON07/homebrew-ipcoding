@@ -1,6 +1,6 @@
 cask "ipcoding" do
   version "0.1.0"
-  sha256 "8385ab95a632acc04fec06597db744d35456623fbf3a479dc003b1bee2f11812"
+  sha256 "7e3c08e9a89834e786cf1711541c2696d0b299f216d9e8a5b717df7842590208"
 
   url "https://github.com/HOJOON07/ipcoding/releases/download/v#{version}/IpCoding-v#{version}.zip"
   name "IpCoding"
