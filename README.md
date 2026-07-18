@@ -4,5 +4,7 @@
 
 ```
 brew tap hojoon07/ipcoding
-brew install --cask --no-quarantine ipcoding
+brew trust hojoon07/ipcoding
+brew install --cask ipcoding
+xattr -dr com.apple.quarantine "/Applications/IpCoding.app"
 ```
